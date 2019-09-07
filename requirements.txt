@@ -1,0 +1,4 @@
+tensorflow-gpu==1.13.1
+Keras==2.2.4
+Pillow==6.1.0
+jupyter==1.0.0
